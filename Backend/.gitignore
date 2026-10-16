@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# assignment kit: do not publish the problem statement
+PROBLEM_STATEMENT.docx
